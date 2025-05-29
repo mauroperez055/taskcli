@@ -1,0 +1,3 @@
+##con esto logro que github ignore el archivo .env y node_modules cuando subo el repositorio
+.env
+node_modules
